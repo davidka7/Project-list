@@ -11,7 +11,7 @@ All my projects
 
 1.  [PlannyBoat-FrontEnd](https://github.com/davidka7/knd-react)
 
-1. [Social Platform]Git not yet uploaded
+1. Social Platform, Git not yet uploaded
 
 1.  [PlannyBoat-Backend](https://github.com/davidka7/knd-backend-ruby)
 
