@@ -4,7 +4,7 @@ All my projects
 
 1.  [BigRace](https://github.com/davidka7/Big-Race)
 
-1.[ChristmasJeopardy](https://github.com/davidka7/ChristmasRedBlue/tree/master)
+1.  [ChristmasJeopardy](https://github.com/davidka7/ChristmasRedBlue/tree/master)
 
 1.  [Notey](https://github.com/davidka7/mod-project2)
 
