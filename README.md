@@ -1,5 +1,5 @@
 # Project-list
-All my projects
+All my projects, besides open source contribution projects and private repositories 
 
 
 1.  [BigRace](https://github.com/davidka7/Big-Race)
