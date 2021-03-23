@@ -34,5 +34,5 @@ All my projects, besides open source contribution projects and private repositor
 1.  [SliceLine-BackEnd](https://github.com/davidka7/SliceLine_Backend)
 
 
-Upcoming Social Media platform
+Upcoming Social Media Project Platform
 
